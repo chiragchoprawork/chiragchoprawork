@@ -14,11 +14,11 @@
 <p>
    I'm a software engineer with 4+ years of experience at various fintech and healthcare organizations such as <a href="https://www.phonepe.com/">@PhonePe</a> <a href="https://paytm.com/">@PayTM</a> and <a href="https://goevive.com">@Evive</a> who is passionate about making products and building startups.
 </p>
-<!-- <table width="100%">
+<table width="100%">
   <tr>
     <td>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=chiragchoprawork&show_icons=true&hide_border=true" /> </td>
  <td> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chiragchoprawork&show_icons=true&hide_border=true&layout=compact&langs_count=8"/> </td>
   </tr>
- <table> -->
+ <table>
   
